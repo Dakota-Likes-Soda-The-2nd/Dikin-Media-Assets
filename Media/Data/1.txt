@@ -1,1 +1,1 @@
-IMAGE|1|0|imagelocation|
+IMAGE|1|0|costume1.svg|
