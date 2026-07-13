@@ -1,1 +1,1 @@
-IMAGE|0|2|0|costume1.svg|12|Dakota.svg|
+IMAGE|0|2|0|costume1.svg|64|Dakota.svg|
