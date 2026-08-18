@@ -1,0 +1,17 @@
+HOW TO READ IMAGE TYPE:
+
+Bit-Type|
+Music?(0 for no, path otherwise)|
+number of parallax layers|
+imagez (or indicates if it's a slideshow by containing any non-number|
+image path|
+
+(repeat last 2 for however many layers there are. or last one for slideshow)
+
+HOW TO READ SOUND TYPE:
+
+Bit-Type|
+Song name|
+Song file|
+Artist|
+Thumbnail file or anything starting with 0 if none|
